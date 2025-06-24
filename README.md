@@ -19,7 +19,6 @@ Este projeto consiste em um sistema de Ponto de Venda (PDV) desenvolvido em PHP 
 - **PHP** (backend)  
 - **MySQL** (banco de dados)  
 - **HTML/CSS** (frontend básico)  
-- **JavaScript** (interações no cliente)  
 - **Bootstrap** (estilização responsiva)  
 
 ## ⚙️ Instalação
