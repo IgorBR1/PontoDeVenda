@@ -2,9 +2,9 @@
 
 //VARIAVEIS GLOBAIS
 $nome_sistema = "Ponto de venda!";
-$email_adm = 'n6_daniel@yahoo.com.br';
+$email_adm = '';
 
-$url_sistema = "http://localhost/pdv/"; //é preciso configurar essa url para gerar os relatorios.
+$url_sistema = "http://localhost/pdv/pdv"; //é preciso configurar essa url para gerar os relatorios.
 
 $telefone_sistema = "(32) 99154-2187";
 $endereco_sistema = "Rua xxx xxx xxx";
