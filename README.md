@@ -12,7 +12,7 @@ Este projeto consiste em um sistema de Ponto de Venda (PDV) desenvolvido em PHP 
 - Interface simples e intuitiva  
 - Relatórios de vendas por período  
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **PHP** (backend)  
 - **MySQL** (banco de dados)  
@@ -23,7 +23,7 @@ Este projeto consiste em um sistema de Ponto de Venda (PDV) desenvolvido em PHP 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pdv-php.git
+   git clone https://github.com/IgorBR1/PontoDeVenda.git
    ```
 
 2. Importe o banco de dados:
