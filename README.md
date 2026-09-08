@@ -1,8 +1,8 @@
-# 🧾 Sistema de Ponto de Venda (PDV) em PHP
+#  Sistema de Ponto de Venda (PDV) em PHP
 
 Este projeto consiste em um sistema de Ponto de Venda (PDV) desenvolvido em PHP com MySQL. A aplicação permite o gerenciamento de vendas, controle de produtos, estoque, usuários e emissão de comprovantes. É uma solução ideal para pequenos e médios comércios que desejam informatizar seu processo de vendas.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Cadastro e gerenciamento de produtos  
 - Controle de estoque em tempo real  
@@ -19,7 +19,7 @@ Este projeto consiste em um sistema de Ponto de Venda (PDV) desenvolvido em PHP 
 - **HTML/CSS** (frontend básico)  
 - **Bootstrap** (estilização responsiva)  
 
-## ⚙️ Instalação
+##  Instalação
 
 1. Clone o repositório:
    ```bash
@@ -43,6 +43,6 @@ Este projeto consiste em um sistema de Ponto de Venda (PDV) desenvolvido em PHP 
    - Use o XAMPP, WAMP ou outro servidor compatível com PHP  
    - Acesse `http://localhost/pdv/pdv` no navegador  
 
-## 👨‍💻 Contribuidores
+##  Contribuidores
 
 Projeto desenvolvido por **Daniel, Igor, Ricardo e Guilherme** como parte de um projeto de faculdade.
